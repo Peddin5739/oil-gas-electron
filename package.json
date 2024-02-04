@@ -1,0 +1,20 @@
+{
+  "name": "oil-gas-electron",
+  "version": "1.0.0",
+  "description": "Electron-Project",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev:watch": "npx electronmon --trace-warnings ."
+  },
+  "keywords": [
+    "electron",
+    "reactjs",
+    "typescript"
+  ],
+  "author": "Naveen Kumar Peddi",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.2.0"
+  }
+}
